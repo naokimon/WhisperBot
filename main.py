@@ -4,6 +4,9 @@ import logging
 from dotenv import load_dotenv
 import os
 import json
+import aiohttp
+import certifi
+import ssl
 
 load_dotenv()
 
@@ -60,7 +63,21 @@ role_storage = {}
 
 # sets a role to assign later saves the set to utils.json
 @bot.command()
-async def set(ctx, role: discord.Role):
+async def set(ctx, role: discord.Role = None):
+    guild_id = str(ctx.guild.id)
+    if role is None:
+        saved_role_id = data["roles"].get(guild_id)
+
+        if not saved_role_id:
+            return await ctx.send("No role has been set yet!")
+
+        saved_role = ctx.guild.get_role(saved_role_id)
+
+        if saved_role is None:
+            return await ctx.send("The saved role doesn't exist anymore!")
+
+        return await ctx.send(f"Currently set role to: {saved_role.mention}")
+
     data["roles"][str(ctx.guild.id)] = role.id
     save_json(data, UTILS_FILE)
     await ctx.send(f"Role set to: {role.mention}")
@@ -101,6 +118,31 @@ async def help(ctx):
         inline=False
     )
     await ctx.send(embed=embed)
+
+ssl_context = ssl.create_default_context(cafile=certifi.where())
+
+# $yokai {yokaiNumber} to generate image of a yokai
+# api doesnt work anymore
+@bot.command()
+async def yokai(ctx, id: int):
+    async with aiohttp.ClientSession() as session:
+        async with session.get(
+            f"https://yokaiwatch-api-production.up.railway.app/api/yokai/{id}",
+            ssl=ssl_context
+        ) as resp:
+
+            if resp.status == 400:
+                return await ctx.send("Not a valid Yokai!")
+
+            if resp.status == 429:
+                return await ctx.send("Rate limited! :(")
+
+            if resp.status == 404:
+                return  await ctx.send("Yokai not found! Yet...")
+
+            data = await resp.json()
+            await ctx.send(data['data']['imageurl'])
+
 
 bot.run(token, log_handler=handler, log_level=logging.DEBUG)
 
