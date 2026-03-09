@@ -1,0 +1,1962 @@
+[
+  {
+    "id": 1,
+    "name": "Pandle",
+    "rank": "E",
+    "tribe": "Brave",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/83/Pandle_Artwork.png/revision/latest?cb=20191227231004"
+  },
+  {
+    "id": 2,
+    "name": "Undy",
+    "rank": "C",
+    "tribe": "Brave",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4b/Undy_Artwork.png/revision/latest?cb=20191227231506"
+  },
+  {
+    "id": 3,
+    "name": "Tanbo",
+    "rank": "B",
+    "tribe": "Brave",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2a/Tanbo_official_art.png/revision/latest/scale-to-width-down/1000?cb=20220727221457"
+  },
+  {
+    "id": 4,
+    "name": "Cutta-nah",
+    "rank": "E",
+    "tribe": "Brave",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/3/3a/Cutta-nah.png/revision/latest?cb=20190822192043"
+  },
+  {
+    "id": 5,
+    "name": "Cutta-nah-nah",
+    "rank": "C",
+    "tribe": "Brave",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d3/Zanbaratou.png/revision/latest?cb=20260128033938"
+  },
+  {
+    "id": 6,
+    "name": "Slacka-slash",
+    "rank": "B",
+    "tribe": "Brave",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b3/Slacka-slash.png/revision/latest?cb=20220727221824"
+  },
+  {
+    "id": 7,
+    "name": "Mochismo",
+    "rank": "D",
+    "tribe": "Brave",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/ec/Mochismo_Official_Artwork.png/revision/latest?cb=20240126231528"
+  },
+  {
+    "id": 8,
+    "name": "Minochi",
+    "rank": "D",
+    "tribe": "Brave",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/67/Minochi_Art.png/revision/latest/scale-to-width-down/1000?cb=20220727222540"
+  },
+  {
+    "id": 9,
+    "name": "Helmsman",
+    "rank": "D",
+    "tribe": "Brave",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/48/Kabutosan.png/revision/latest?cb=20251216214641"
+  },
+  {
+    "id": 10,
+    "name": "Reuknight",
+    "rank": "A",
+    "tribe": "Brave",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4b/ReuknightArtwork.png/revision/latest/scale-to-width-down/1000?cb=20240126231625"
+  },
+  {
+    "id": 11,
+    "name": "Corptain",
+    "rank": "S",
+    "tribe": "Brave",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/55/Corptain2.png/revision/latest?cb=20241204212316"
+  },
+  {
+    "id": 12,
+    "name": "Blazion",
+    "rank": "C",
+    "tribe": "Brave",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0e/BlazionArtwork.png/revision/latest?cb=20210429163054"
+  },
+  {
+    "id": 13,
+    "name": "Quaken",
+    "rank": "B",
+    "tribe": "Brave",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/3/30/Quaken_Art.png/revision/latest?cb=20200407192924"
+  },
+  {
+    "id": 14,
+    "name": "Siro",
+    "rank": "A",
+    "tribe": "Brave",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/56/SiroArtwork.png/revision/latest/scale-to-width-down/1000?cb=20240126231713"
+  },
+  {
+    "id": 15,
+    "name": "Chansin",
+    "rank": "C",
+    "tribe": "Brave",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b9/Chansin2.png/revision/latest?cb=20190126020055"
+  },
+  {
+    "id": 16,
+    "name": "Sheen",
+    "rank": "A",
+    "tribe": "Brave",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d9/Sheen2.png/revision/latest/scale-to-width-down/1000?cb=20221116052706"
+  },
+  {
+    "id": 17,
+    "name": "Snee",
+    "rank": "A",
+    "tribe": "Brave",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/69/SneeArtwork.png/revision/latest/scale-to-width-down/1000?cb=20241204215809"
+  },
+  {
+    "id": 18,
+    "name": "Gleam",
+    "rank": "S",
+    "tribe": "Brave",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e7/Gleam2.png/revision/latest/scale-to-width-down/1000?cb=20221116052824"
+  },
+  {
+    "id": 19,
+    "name": "Benkei",
+    "rank": "B",
+    "tribe": "Brave",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/9d/BenkeiArtwork.png/revision/latest/scale-to-width-down/1000?cb=20240126231738"
+  },
+  {
+    "id": 20,
+    "name": "B3-NK1",
+    "rank": "B",
+    "tribe": "Brave",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/be/B3NK1_Artwork.png/revision/latest?cb=20241204210123"
+  },
+  {
+    "id": 21,
+    "name": "Sushiyama",
+    "rank": "B",
+    "tribe": "Brave",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f5/Sushiyama_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20220727223613"
+  },
+  {
+    "id": 22,
+    "name": "Kapunki",
+    "rank": "A",
+    "tribe": "Brave",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/8d/Kapunki_Art.png/revision/latest?cb=20251230070906"
+  },
+  {
+    "id": 23,
+    "name": "Beetler",
+    "rank": "B",
+    "tribe": "Brave",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0d/Kuwano-Bushi.png/revision/latest?cb=20190201222441"
+  },
+  {
+    "id": 24,
+    "name": "Beetall",
+    "rank": "S",
+    "tribe": "Brave",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/cf/Kuwaga-Taishou.png/revision/latest?cb=20251207222158"
+  },
+  {
+    "id": 25,
+    "name": "Cruncha",
+    "rank": "S",
+    "tribe": "Brave",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Cruncha_Art.png/revision/latest/scale-to-width-down/1000?cb=20220727223735"
+  },
+  {
+    "id": 26,
+    "name": "Zerberker",
+    "rank": "S",
+    "tribe": "Brave",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0f/Kushamusha2.png/revision/latest/scale-to-width-down/1000?cb=20220727222422"
+  },
+  {
+    "id": 27,
+    "name": "Snartle",
+    "rank": "S",
+    "tribe": "Brave",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/81/Namahage.png/revision/latest/scale-to-width-down/1000?cb=20240126231827"
+  },
+  {
+    "id": 28,
+    "name": "Snotsolong",
+    "rank": "E",
+    "tribe": "Mysterious",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/8d/Snotsolong2.png/revision/latest/scale-to-width-down/500?cb=20190121013842"
+  },
+  {
+    "id": 29,
+    "name": "Duchoo",
+    "rank": "D",
+    "tribe": "Mysterious",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b7/Duchoo_Artwork.png/revision/latest/scale-to-width-down/500?cb=20220727224120"
+  },
+  {
+    "id": 30,
+    "name": "Wazzat",
+    "rank": "E",
+    "tribe": "Mysterious",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/78/Wazzat_artwork.png/revision/latest/scale-to-width-down/500?cb=20220728041044"
+  },
+  {
+    "id": 31,
+    "name": "Dummkap",
+    "rank": "E",
+    "tribe": "Mysterious",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/be/Dummkap.png/revision/latest/scale-to-width-down/500?cb=20220728040942"
+  },
+  {
+    "id": 32,
+    "name": "D'wanna",
+    "rank": "E",
+    "tribe": "Mysterious",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d6/D%27wanna_Art.png/revision/latest/scale-to-width-down/495?cb=20240127190758"
+  },
+  {
+    "id": 33,
+    "name": "N'more",
+    "rank": "C",
+    "tribe": "Mysterious",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/eb/Nmore.png/revision/latest/scale-to-width-down/500?cb=20240127190831"
+  },
+  {
+    "id": 34,
+    "name": "Q'wit",
+    "rank": "C",
+    "tribe": "Mysterious",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/11/Qwit.png/revision/latest?cb=20251216214526"
+  },
+  {
+    "id": 35,
+    "name": "Lafalotta",
+    "rank": "D",
+    "tribe": "Mysterious",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/26/Lafalotta_Art.png/revision/latest/scale-to-width-down/500?cb=20190423215638"
+  },
+  {
+    "id": 36,
+    "name": "Blips",
+    "rank": "C",
+    "tribe": "Mysterious",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/86/Blips_official_art.png/revision/latest/scale-to-width-down/500?cb=20220728041208"
+  },
+  {
+    "id": 37,
+    "name": "Tattletell",
+    "rank": "D",
+    "tribe": "Mysterious",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/3/33/Tattletell.png/revision/latest/scale-to-width-down/500?cb=20191226235037"
+  },
+  {
+    "id": 38,
+    "name": "Tattlecast",
+    "rank": "B",
+    "tribe": "Mysterious",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/63/TattlecastArtwork.png/revision/latest/scale-to-width-down/500?cb=20240127191007"
+  },
+  {
+    "id": 39,
+    "name": "Skranny",
+    "rank": "C",
+    "tribe": "Mysterious",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7a/Skranny_artwork.png/revision/latest/scale-to-width-down/500?cb=20240127191023"
+  },
+  {
+    "id": 40,
+    "name": "Cupistol",
+    "rank": "D",
+    "tribe": "Mysterious",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c7/Cupistoartworkl.png/revision/latest/scale-to-width-down/500?cb=20250729023719"
+  },
+  {
+    "id": 41,
+    "name": "Casanuva",
+    "rank": "A",
+    "tribe": "Mysterious",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c8/Casanuva2.png/revision/latest/scale-to-width-down/500?cb=20190120213600"
+  },
+  {
+    "id": 42,
+    "name": "Casanono",
+    "rank": "A",
+    "tribe": "Mysterious",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ca/Motenasu.png/revision/latest/scale-to-width-down/466?cb=20240127191043"
+  },
+  {
+    "id": 43,
+    "name": "Signibble",
+    "rank": "D",
+    "tribe": "Mysterious",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/3/3a/SignibbleArtwork.png/revision/latest/scale-to-width-down/490?cb=20240127191138"
+  },
+  {
+    "id": 44,
+    "name": "Signiton",
+    "rank": "A",
+    "tribe": "Mysterious",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7d/Signiton2.png/revision/latest/scale-to-width-down/500?cb=20260103152836"
+  },
+  {
+    "id": 45,
+    "name": "Statiking",
+    "rank": "S",
+    "tribe": "Mysterious",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fa/Statiking2.png/revision/latest/scale-to-width-down/500?cb=20220728041950"
+  },
+  {
+    "id": 46,
+    "name": "Mirapo",
+    "rank": "C",
+    "tribe": "Mysterious",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fb/Mirapo.png/revision/latest/scale-to-width-down/497?cb=20190126014423"
+  },
+  {
+    "id": 47,
+    "name": "Mircle",
+    "rank": "A",
+    "tribe": "Mysterious",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a8/Mircle_Art.png/revision/latest/scale-to-width-down/500?cb=20220728042241"
+  },
+  {
+    "id": 48,
+    "name": "Illoo",
+    "rank": "C",
+    "tribe": "Mysterious",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a7/Illoo_artwork.png/revision/latest/scale-to-width-down/500?cb=20241204211225"
+  },
+  {
+    "id": 49,
+    "name": "Elloo",
+    "rank": "C",
+    "tribe": "Mysterious",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/cb/Elloo2.png/revision/latest/scale-to-width-down/500?cb=20241204211047"
+  },
+  {
+    "id": 50,
+    "name": "Alloo",
+    "rank": "B",
+    "tribe": "Mysterious",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a3/Alloo_Art.png/revision/latest/scale-to-width-down/500?cb=20241204211558"
+  },
+  {
+    "id": 51,
+    "name": "Espy",
+    "rank": "B",
+    "tribe": "Mysterious",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Espy2.png/revision/latest/scale-to-width-down/500?cb=20220728042548"
+  },
+  {
+    "id": 52,
+    "name": "Infour",
+    "rank": "B",
+    "tribe": "Mysterious",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/66/Infour2.png/revision/latest/scale-to-width-down/500?cb=20220728042612"
+  },
+  {
+    "id": 53,
+    "name": "Tengu",
+    "rank": "S",
+    "tribe": "Mysterious",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/03/TenguArtwork.png/revision/latest/scale-to-width-down/483?cb=20191226233931"
+  },
+  {
+    "id": 54,
+    "name": "Flengu",
+    "rank": "S",
+    "tribe": "Mysterious",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e6/Flengu.png/revision/latest/scale-to-width-down/500?cb=20220728042741"
+  },
+  {
+    "id": 55,
+    "name": "Kyubi",
+    "rank": "S",
+    "tribe": "Mysterious",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/43/Kyubi.png/revision/latest/scale-to-width-down/450?cb=20190117224015"
+  },
+  {
+    "id": 56,
+    "name": "Frostail",
+    "rank": "S",
+    "tribe": "Mysterious",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/86/Frostail_Art.png/revision/latest/scale-to-width-down/500?cb=20220728042859"
+  },
+  {
+    "id": 57,
+    "name": "Dulluma",
+    "rank": "E",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/cc/DullumaMedalArt.png/revision/latest?cb=20241205002010"
+  },
+  {
+    "id": 58,
+    "name": "Darumacho",
+    "rank": "B",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/40/Darumacho_Art.png/revision/latest/scale-to-width-down/445?cb=20260113012532"
+  },
+  {
+    "id": 59,
+    "name": "Goruma",
+    "rank": "B",
+    "tribe": "Tough",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/97/Goruma_Art.png/revision/latest/scale-to-width-down/500?cb=20240127192242"
+  },
+  {
+    "id": 60,
+    "name": "Noway",
+    "rank": "E",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/67/Noway_Art.png/revision/latest/scale-to-width-down/500?cb=20191226234202"
+  },
+  {
+    "id": 61,
+    "name": "Impass",
+    "rank": "A",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/68/ImpassMedalArt.png/revision/latest?cb=20250701151757"
+  },
+  {
+    "id": 62,
+    "name": "Walldin",
+    "rank": "A",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/55/GNN_Walldin_Artwork_HD.png/revision/latest/scale-to-width-down/500?cb=20201205004048"
+  },
+  {
+    "id": 63,
+    "name": "Armsman",
+    "rank": "D",
+    "tribe": "Tough",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/84/Yoroisan.png/revision/latest/scale-to-width-down/450?cb=20241204223129"
+  },
+  {
+    "id": 64,
+    "name": "Fidgephant",
+    "rank": "C",
+    "tribe": "Tough",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/70/Fidgephant_Artwork.png/revision/latest/scale-to-width-down/500?cb=20241205180953"
+  },
+  {
+    "id": 65,
+    "name": "Touphant",
+    "rank": "C",
+    "tribe": "Tough",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/04/Touphant_Artwork.png/revision/latest/scale-to-width-down/500?cb=20241205180641"
+  },
+  {
+    "id": 66,
+    "name": "Blowkade",
+    "rank": "D",
+    "tribe": "Tough",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bf/Blowkade_Artwork.png/revision/latest/scale-to-width-down/500?cb=20240127194529"
+  },
+  {
+    "id": 67,
+    "name": "Ledballoon",
+    "rank": "D",
+    "tribe": "Tough",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/85/LedballoonArtwork.png/revision/latest/scale-to-width-down/500?cb=20241204223753"
+  },
+  {
+    "id": 68,
+    "name": "Mad Mountain",
+    "rank": "C",
+    "tribe": "Tough",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6f/Mad_Mountain_Art.png/revision/latest/scale-to-width-down/500?cb=20251230071942"
+  },
+  {
+    "id": 69,
+    "name": "Lava Lord",
+    "rank": "B",
+    "tribe": "Tough",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/73/Lava_Lord_Art.png/revision/latest/scale-to-width-down/500?cb=20220728044634"
+  },
+  {
+    "id": 70,
+    "name": "Roughraff",
+    "rank": "E",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/ba/Gurerulin_artwork.png/revision/latest/scale-to-width-down/487?cb=20190822142156"
+  },
+  {
+    "id": 71,
+    "name": "Badude",
+    "rank": "B",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/dd/GokudoArtworkTransparent.png/revision/latest/scale-to-width-down/461?cb=20251216151757"
+  },
+  {
+    "id": 72,
+    "name": "Bruff",
+    "rank": "A",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d3/Bruff_Art.png/revision/latest/scale-to-width-down/486?cb=20240127192355"
+  },
+  {
+    "id": 73,
+    "name": "Rhinoggin",
+    "rank": "B",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/03/Rhinoggin-Musha-Kabuto.png/revision/latest/scale-to-width-down/425?cb=20190323025626"
+  },
+  {
+    "id": 74,
+    "name": "Rhinormous",
+    "rank": "S",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/RhinormousArtwork.png/revision/latest/scale-to-width-down/500?cb=20240127194751"
+  },
+  {
+    "id": 75,
+    "name": "Hornaplenty",
+    "rank": "S",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b3/Hornaplenty_Art.png/revision/latest/scale-to-width-down/500?cb=20220728045029"
+  },
+  {
+    "id": 76,
+    "name": "Castelius III",
+    "rank": "C",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e5/Castelius_III_Art.png/revision/latest/scale-to-width-down/500?cb=20220728044800"
+  },
+  {
+    "id": 77,
+    "name": "Castelius II",
+    "rank": "B",
+    "tribe": "Tough",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7e/Castelius_II_Art.png/revision/latest/scale-to-width-down/500?cb=20220728044831"
+  },
+  {
+    "id": 78,
+    "name": "Castelius I",
+    "rank": "A",
+    "tribe": "Tough",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/78/Castelius_I_Art.png/revision/latest/scale-to-width-down/500?cb=20220728044846"
+  },
+  {
+    "id": 79,
+    "name": "Castelius Max",
+    "rank": "S",
+    "tribe": "Tough",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/56/Castelius-max.png/revision/latest/scale-to-width-down/500?cb=20220728044858"
+  },
+  {
+    "id": 80,
+    "name": "Robonyan",
+    "rank": "A",
+    "tribe": "Tough",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b5/Robonyan.png/revision/latest/scale-to-width-down/500?cb=20251208184458"
+  },
+  {
+    "id": 81,
+    "name": "Goldenyan",
+    "rank": "S",
+    "tribe": "Tough",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/20/Goldenyan2.png/revision/latest/scale-to-width-down/500?cb=20241120005858"
+  },
+  {
+    "id": 82,
+    "name": "Dromp",
+    "rank": "S",
+    "tribe": "Tough",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1c/Dromp_Art.png/revision/latest/scale-to-width-down/500?cb=20250729024720"
+  },
+  {
+    "id": 83,
+    "name": "Swosh",
+    "rank": "S",
+    "tribe": "Tough",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/64/Swosh_art.png/revision/latest/scale-to-width-down/500?cb=20250729024729"
+  },
+  {
+    "id": 84,
+    "name": "Dazzabel",
+    "rank": "E",
+    "tribe": "Charming",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/76/DazzabelArtwork.png/revision/latest/scale-to-width-down/484?cb=20240127195657"
+  },
+  {
+    "id": 85,
+    "name": "Rattelle",
+    "rank": "C",
+    "tribe": "Charming",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4a/Rattelle_Artwork.png/revision/latest/scale-to-width-down/500?cb=20220728045819"
+  },
+  {
+    "id": 86,
+    "name": "Skelebella",
+    "rank": "B",
+    "tribe": "Charming",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/df/SkelebellaArtwork.png/revision/latest/scale-to-width-down/494?cb=20240127195712"
+  },
+  {
+    "id": 87,
+    "name": "Cadin",
+    "rank": "E",
+    "tribe": "Charming",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/9f/CadinArtwork.png/revision/latest/scale-to-width-down/500?cb=20240606043156"
+  },
+  {
+    "id": 88,
+    "name": "Cadable",
+    "rank": "C",
+    "tribe": "Charming",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/84/Cadable_Artwork.png/revision/latest/scale-to-width-down/500?cb=20220728050049"
+  },
+  {
+    "id": 89,
+    "name": "Singcada",
+    "rank": "B",
+    "tribe": "Charming",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f9/Singcada_Artwork.png/revision/latest/scale-to-width-down/500?cb=20220728050319"
+  },
+  {
+    "id": 90,
+    "name": "Pupsicle",
+    "rank": "E",
+    "tribe": "Charming",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/50/Pupsicle-Samugari.png/revision/latest/scale-to-width-down/500?cb=20220728050647"
+  },
+  {
+    "id": 91,
+    "name": "Chilhuahua",
+    "rank": "S",
+    "tribe": "Charming",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/3/39/Chilhuahua_Art.png/revision/latest/scale-to-width-down/475?cb=20240127195757"
+  },
+  {
+    "id": 92,
+    "name": "Swelterrier",
+    "rank": "S",
+    "tribe": "Charming",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b2/SwelterrierArtwork.png/revision/latest/scale-to-width-down/489?cb=20240127195807"
+  },
+  {
+    "id": 93,
+    "name": "Jibanyan",
+    "rank": "D",
+    "tribe": "Charming",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/72/JibanyanArtwork.png/revision/latest/scale-to-width-down/486?cb=20260217052426"
+  },
+  {
+    "id": 94,
+    "name": "Thornyan",
+    "rank": "B",
+    "tribe": "Charming",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c6/ThornyanArtwork.png/revision/latest/scale-to-width-down/500?cb=20191227025319"
+  },
+  {
+    "id": 95,
+    "name": "Baddinyan",
+    "rank": "B",
+    "tribe": "Charming",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/91/Baddinyan_Art.png/revision/latest/scale-to-width-down/500?cb=20191227030451"
+  },
+  {
+    "id": 96,
+    "name": "Walkappa",
+    "rank": "D",
+    "tribe": "Charming",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/70/Nogappa.png/revision/latest/scale-to-width-down/500?cb=20240127200012"
+  },
+  {
+    "id": 97,
+    "name": "Appak",
+    "rank": "A",
+    "tribe": "Charming",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/46/Tabigappa.png/revision/latest/scale-to-width-down/500?cb=20220728052055"
+  },
+  {
+    "id": 98,
+    "name": "Supyo",
+    "rank": "A",
+    "tribe": "Charming",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/98/Supyo-0.png/revision/latest/scale-to-width-down/500?cb=20220728052127"
+  },
+  {
+    "id": 99,
+    "name": "Komasan",
+    "rank": "D",
+    "tribe": "Charming",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/60/KomasanArtwork.png/revision/latest/scale-to-width-down/474?cb=20191214203454"
+  },
+  {
+    "id": 100,
+    "name": "Komane",
+    "rank": "A",
+    "tribe": "Charming",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Komaneartwork.png/revision/latest/scale-to-width-down/500?cb=20220728052223"
+  },
+  {
+    "id": 101,
+    "name": "Komajiro",
+    "rank": "D",
+    "tribe": "Charming",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/88/KomajiroArtwork.png/revision/latest/scale-to-width-down/338?cb=20260207055408"
+  },
+  {
+    "id": 102,
+    "name": "Komiger",
+    "rank": "A",
+    "tribe": "Charming",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Torajirou.png/revision/latest/scale-to-width-down/500?cb=20220728052246"
+  },
+  {
+    "id": 103,
+    "name": "Baku",
+    "rank": "D",
+    "tribe": "Charming",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b7/Baku2.png/revision/latest/scale-to-width-down/500?cb=20230506150721"
+  },
+  {
+    "id": 104,
+    "name": "Whapir",
+    "rank": "C",
+    "tribe": "Charming",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/90/Haku.png/revision/latest/scale-to-width-down/500?cb=20260207055000"
+  },
+  {
+    "id": 105,
+    "name": "Shmoopie",
+    "rank": "C",
+    "tribe": "Charming",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/96/Shmoopie_Artwork.png/revision/latest/scale-to-width-down/364?cb=20230211130020"
+  },
+  {
+    "id": 106,
+    "name": "Pinkipoo",
+    "rank": "B",
+    "tribe": "Charming",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f0/Pinkipoo_Artwork.png/revision/latest/scale-to-width-down/462?cb=20190217003019"
+  },
+  {
+    "id": 107,
+    "name": "Pookivil",
+    "rank": "A",
+    "tribe": "Charming",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/65/Pookivilc.png/revision/latest/scale-to-width-down/456?cb=20240621222859"
+  },
+  {
+    "id": 108,
+    "name": "Frostina",
+    "rank": "B",
+    "tribe": "Charming",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/76/Frostina_Art.png/revision/latest/scale-to-width-down/495?cb=20240127200438"
+  },
+  {
+    "id": 109,
+    "name": "Blizzaria",
+    "rank": "S",
+    "tribe": "Charming",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/Blizzaria_Official_Art.png/revision/latest/scale-to-width-down/272?cb=20260110231307"
+  },
+  {
+    "id": 110,
+    "name": "Damona",
+    "rank": "S",
+    "tribe": "Charming",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a9/Damona2.png/revision/latest/scale-to-width-down/272?cb=20260110231644"
+  },
+  {
+    "id": 111,
+    "name": "Wiglin",
+    "rank": "E",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/18/Wakame-kunArtworkTransparent.png/revision/latest/scale-to-width-down/292?cb=20250517222120"
+  },
+  {
+    "id": 112,
+    "name": "Steppa",
+    "rank": "E",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Steppa-0.png/revision/latest/scale-to-width-down/292?cb=20250517221348"
+  },
+  {
+    "id": 113,
+    "name": "Rhyth",
+    "rank": "D",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/86/Rhyth-0.png/revision/latest/scale-to-width-down/292?cb=20250517221946"
+  },
+  {
+    "id": 114,
+    "name": "Wantston",
+    "rank": "E",
+    "tribe": "Heartful",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/a/ac/Wantston-0.png/revision/latest/scale-to-width-down/500?cb=20220728052809"
+  },
+  {
+    "id": 115,
+    "name": "Grubsnitch",
+    "rank": "D",
+    "tribe": "Heartful",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/75/Grubsnitch_Art.png/revision/latest/scale-to-width-down/500?cb=20220728052843"
+  },
+  {
+    "id": 116,
+    "name": "Hungramps",
+    "rank": "E",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e4/Hungramps_Artwork.png/revision/latest/scale-to-width-down/500?cb=20230211124501"
+  },
+  {
+    "id": 117,
+    "name": "Hungorge",
+    "rank": "B",
+    "tribe": "Heartful",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1e/Hungorge_Art.png/revision/latest/scale-to-width-down/500?cb=20220728053303"
+  },
+  {
+    "id": 118,
+    "name": "Grainpa",
+    "rank": "B",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/95/Grainpa_Art.png/revision/latest/scale-to-width-down/500?cb=20220728053242"
+  },
+  {
+    "id": 119,
+    "name": "Lodo",
+    "rank": "D",
+    "tribe": "Heartful",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a3/Lodo_Art.png/revision/latest/scale-to-width-down/500?cb=20220728054005"
+  },
+  {
+    "id": 120,
+    "name": "Chippa",
+    "rank": "C",
+    "tribe": "Heartful",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/99/Chippa-0.png/revision/latest/scale-to-width-down/500?cb=20220728054112"
+  },
+  {
+    "id": 121,
+    "name": "Enerfly",
+    "rank": "D",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6e/Enerfly2.png/revision/latest/scale-to-width-down/500?cb=20220728054928"
+  },
+  {
+    "id": 122,
+    "name": "Enefly",
+    "rank": "D",
+    "tribe": "Heartful",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/18/Enefly.PNG/revision/latest/scale-to-width-down/500?cb=20220728054848"
+  },
+  {
+    "id": 123,
+    "name": "Betterfly",
+    "rank": "A",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6d/Betterflyartwork.png/revision/latest/scale-to-width-down/500?cb=20190117221309"
+  },
+  {
+    "id": 124,
+    "name": "Peppillon",
+    "rank": "S",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2c/PepillionArtwork.png/revision/latest/scale-to-width-down/500?cb=20240127202218"
+  },
+  {
+    "id": 125,
+    "name": "Happierre",
+    "rank": "C",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/Happierre.png/revision/latest/scale-to-width-down/500?cb=20240127202601"
+  },
+  {
+    "id": 126,
+    "name": "Reversa",
+    "rank": "A",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/78/ReversaArtwork.png/revision/latest/scale-to-width-down/490?cb=20240127202612"
+  },
+  {
+    "id": 127,
+    "name": "Reversette",
+    "rank": "A",
+    "tribe": "Heartful",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/a/af/Reversette_Official_Art.png/revision/latest/scale-to-width-down/500?cb=20220728060031"
+  },
+  {
+    "id": 128,
+    "name": "Ol' Saint Trick",
+    "rank": "B",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a6/Ol%27_Saint_Trick_Art.png/revision/latest/scale-to-width-down/500?cb=20240127202300"
+  },
+  {
+    "id": 129,
+    "name": "Ol' Fortune",
+    "rank": "B",
+    "tribe": "Heartful",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Ol%27_Fortune_Art.png/revision/latest/scale-to-width-down/500?cb=20240127202312"
+  },
+  {
+    "id": 130,
+    "name": "Rollen",
+    "rank": "A",
+    "tribe": "Heartful",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4d/RollenArtwork.png/revision/latest/scale-to-width-down/500?cb=20240127202640"
+  },
+  {
+    "id": 131,
+    "name": "Dubbles",
+    "rank": "A",
+    "tribe": "Heartful",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/88/Dubbles_Art.png/revision/latest/scale-to-width-down/500?cb=20230416073649"
+  },
+  {
+    "id": 132,
+    "name": "Papa Bolt",
+    "rank": "A",
+    "tribe": "Heartful",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/ce/PapaBolt-0.png/revision/latest/scale-to-width-down/458?cb=20251216153233"
+  },
+  {
+    "id": 133,
+    "name": "Uncle Infinite",
+    "rank": "S",
+    "tribe": "Heartful",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/20/UncleInfinite-0.png/revision/latest/scale-to-width-down/458?cb=20251216153540"
+  },
+  {
+    "id": 134,
+    "name": "Mama Aura",
+    "rank": "S",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/de/Mama_Aura.png/revision/latest/scale-to-width-down/488?cb=20240127202730"
+  },
+  {
+    "id": 135,
+    "name": "Auntie Heart",
+    "rank": "S",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0e/Auntie_Heart_Artwork.png/revision/latest/scale-to-width-down/500?cb=20230416071503"
+  },
+  {
+    "id": 136,
+    "name": "Leadoni",
+    "rank": "E",
+    "tribe": "Shady",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e4/Leadoni.png/revision/latest/scale-to-width-down/500?cb=20250729024737"
+  },
+  {
+    "id": 137,
+    "name": "Mynimo",
+    "rank": "D",
+    "tribe": "Shady",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/3/32/Mynimo_Art.png/revision/latest/scale-to-width-down/500?cb=20250729024743"
+  },
+  {
+    "id": 138,
+    "name": "Ake",
+    "rank": "E",
+    "tribe": "Shady",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e8/Autschi_Artwork.png/revision/latest/scale-to-width-down/500?cb=20210429181701"
+  },
+  {
+    "id": 139,
+    "name": "Payn",
+    "rank": "C",
+    "tribe": "Shady",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/80/PaynArtwork.png/revision/latest/scale-to-width-down/489?cb=20240127203353"
+  },
+  {
+    "id": 140,
+    "name": "Agon",
+    "rank": "B",
+    "tribe": "Shady",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d3/Agon_Artwork.png/revision/latest/scale-to-width-down/500?cb=20220729031041"
+  },
+  {
+    "id": 141,
+    "name": "Negatibuzz",
+    "rank": "E",
+    "tribe": "Shady",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1e/Negatibuzz_art.png/revision/latest/scale-to-width-down/380?cb=20240127203431"
+  },
+  {
+    "id": 142,
+    "name": "Moskevil",
+    "rank": "C",
+    "tribe": "Shady",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/19/Moskevil_Art.png/revision/latest/scale-to-width-down/485?cb=20240127203443"
+  },
+  {
+    "id": 143,
+    "name": "Scritchy",
+    "rank": "A",
+    "tribe": "Shady",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e3/Scritchy_art.png/revision/latest/scale-to-width-down/487?cb=20240127203457"
+  },
+  {
+    "id": 144,
+    "name": "Dimmy",
+    "rank": "E",
+    "tribe": "Shady",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/3/35/Dimmy_Art.png/revision/latest/scale-to-width-down/500?cb=20220729031513"
+  },
+  {
+    "id": 145,
+    "name": "Blandon",
+    "rank": "B",
+    "tribe": "Shady",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/27/Blandon_Art.png/revision/latest/scale-to-width-down/500?cb=20220729031540"
+  },
+  {
+    "id": 146,
+    "name": "Nul",
+    "rank": "A",
+    "tribe": "Shady",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/cd/NulArtwork.png/revision/latest/scale-to-width-down/483?cb=20240127203517"
+  },
+  {
+    "id": 147,
+    "name": "Hidabat",
+    "rank": "D",
+    "tribe": "Shady",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/46/HidabatArtwork.png/revision/latest/scale-to-width-down/489?cb=20240127203633"
+  },
+  {
+    "id": 148,
+    "name": "Abodabat",
+    "rank": "A",
+    "tribe": "Shady",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bd/Abodabat-Tojikomori.png/revision/latest/scale-to-width-down/500?cb=20240127203645"
+  },
+  {
+    "id": 149,
+    "name": "Belfree",
+    "rank": "A",
+    "tribe": "Shady",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/67/Belfree_Art.png/revision/latest/scale-to-width-down/500?cb=20240127203702"
+  },
+  {
+    "id": 150,
+    "name": "Suspicioni",
+    "rank": "D",
+    "tribe": "Shady",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/19/SuspicioniArtwork.png/revision/latest/scale-to-width-down/477?cb=20240127203534"
+  },
+  {
+    "id": 151,
+    "name": "Tantroni",
+    "rank": "D",
+    "tribe": "Shady",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c5/Tantroni_Art.png/revision/latest/scale-to-width-down/500?cb=20220729031640"
+  },
+  {
+    "id": 152,
+    "name": "Contrarioni",
+    "rank": "B",
+    "tribe": "Shady",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6c/Contrarioni_Artwork.png/revision/latest/scale-to-width-down/339?cb=20241204213529"
+  },
+  {
+    "id": 153,
+    "name": "Tengloom",
+    "rank": "C",
+    "tribe": "Shady",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/09/TengloomArtwork.png/revision/latest/scale-to-width-down/485?cb=20240127203833"
+  },
+  {
+    "id": 154,
+    "name": "Nird",
+    "rank": "B",
+    "tribe": "Shady",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4b/Nird-0.png/revision/latest/scale-to-width-down/500?cb=20220729032522"
+  },
+  {
+    "id": 155,
+    "name": "Negasus",
+    "rank": "A",
+    "tribe": "Shady",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b8/Negasus_Art.png/revision/latest/scale-to-width-down/500?cb=20240127204115"
+  },
+  {
+    "id": 156,
+    "name": "Neighfarious",
+    "rank": "A",
+    "tribe": "Shady",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e1/Neighfarious_Art.png/revision/latest/scale-to-width-down/500?cb=20241204225227"
+  },
+  {
+    "id": 157,
+    "name": "Timidevil",
+    "rank": "A",
+    "tribe": "Shady",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/1a/Timidevil2.png/revision/latest/scale-to-width-down/338?cb=20190131223459"
+  },
+  {
+    "id": 158,
+    "name": "Beelzebold",
+    "rank": "S",
+    "tribe": "Shady",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/8e/BeelzeboldArtwork.png/revision/latest/scale-to-width-down/500?cb=20240127204233"
+  },
+  {
+    "id": 159,
+    "name": "Count Cavity",
+    "rank": "S",
+    "tribe": "Shady",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/21/Count-Cavity.png/revision/latest/scale-to-width-down/500?cb=20240127204247"
+  },
+  {
+    "id": 160,
+    "name": "Greesel",
+    "rank": "S",
+    "tribe": "Shady",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/95/Dokechingu.png/revision/latest/scale-to-width-down/500?cb=20220729032952"
+  },
+  {
+    "id": 161,
+    "name": "Awevil",
+    "rank": "S",
+    "tribe": "Shady",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/10/Awevil_Official_Artwork.png/revision/latest/scale-to-width-down/500?cb=20220729033013"
+  },
+  {
+    "id": 162,
+    "name": "Coughkoff",
+    "rank": "E",
+    "tribe": "Eerie",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6a/Coughkoff_Art.png/revision/latest/scale-to-width-down/498?cb=20191227025756"
+  },
+  {
+    "id": 163,
+    "name": "Hurchin",
+    "rank": "D",
+    "tribe": "Eerie",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/87/Hurchin_Art.png/revision/latest/scale-to-width-down/500?cb=20220729033125"
+  },
+  {
+    "id": 164,
+    "name": "Peckpocket",
+    "rank": "E",
+    "tribe": "Eerie",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/da/Peckpocket.png/revision/latest/scale-to-width-down/500?cb=20220729033326"
+  },
+  {
+    "id": 165,
+    "name": "Rockabelly",
+    "rank": "D",
+    "tribe": "Eerie",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/94/Rockabelly.png/revision/latest/scale-to-width-down/500?cb=20250517221106"
+  },
+  {
+    "id": 166,
+    "name": "Buhu",
+    "rank": "E",
+    "tribe": "Eerie",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/ec/Buhu_Art.png/revision/latest/scale-to-width-down/500?cb=20241205181533"
+  },
+  {
+    "id": 167,
+    "name": "Flumpy",
+    "rank": "C",
+    "tribe": "Eerie",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/71/Flumpy2.png/revision/latest/scale-to-width-down/500?cb=20190121074433"
+  },
+  {
+    "id": 168,
+    "name": "Skreek",
+    "rank": "A",
+    "tribe": "Eerie",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/72/Skreek_Art.png/revision/latest/scale-to-width-down/500?cb=20240127205158"
+  },
+  {
+    "id": 169,
+    "name": "Manjimutt",
+    "rank": "E",
+    "tribe": "Eerie",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/90/Manjimutt.png/revision/latest/scale-to-width-down/500?cb=20190117214623"
+  },
+  {
+    "id": 170,
+    "name": "Multimutt",
+    "rank": "B",
+    "tribe": "Eerie",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/74/Multimutt2.png/revision/latest/scale-to-width-down/500?cb=20260106184530"
+  },
+  {
+    "id": 171,
+    "name": "Sir Berus",
+    "rank": "A",
+    "tribe": "Eerie",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/5b/Sir-Berus.png/revision/latest/scale-to-width-down/500?cb=20260106185742"
+  },
+  {
+    "id": 172,
+    "name": "Droplette",
+    "rank": "E",
+    "tribe": "Eerie",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/a/a8/Droplette_Art.png/revision/latest/scale-to-width-down/484?cb=20240127205100"
+  },
+  {
+    "id": 173,
+    "name": "Drizzle",
+    "rank": "B",
+    "tribe": "Eerie",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fb/Drizzle_Art.png/revision/latest/scale-to-width-down/500?cb=20260109051537"
+  },
+  {
+    "id": 174,
+    "name": "Slush",
+    "rank": "E",
+    "tribe": "Eerie",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/3/32/Slush_Art.png/revision/latest/scale-to-width-down/461?cb=20240127205115"
+  },
+  {
+    "id": 175,
+    "name": "Alhail",
+    "rank": "B",
+    "tribe": "Eerie",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/f/fb/AlhailArtwork.png/revision/latest/scale-to-width-down/500?cb=20240127205126"
+  },
+  {
+    "id": 176,
+    "name": "Gush",
+    "rank": "D",
+    "tribe": "Eerie",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/53/Gush_Art.png/revision/latest/scale-to-width-down/287?cb=20241204212636"
+  },
+  {
+    "id": 177,
+    "name": "Chatalie",
+    "rank": "D",
+    "tribe": "Eerie",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f4/ChatalieArtwork.png/revision/latest/scale-to-width-down/499?cb=20240127205333"
+  },
+  {
+    "id": 178,
+    "name": "Nagatha",
+    "rank": "C",
+    "tribe": "Eerie",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f0/NagathaArtwork.png/revision/latest/scale-to-width-down/499?cb=20240127205344"
+  },
+  {
+    "id": 179,
+    "name": "Dismarelda",
+    "rank": "D",
+    "tribe": "Eerie",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/2b/DismareldaArtwork.png/revision/latest/scale-to-width-down/500?cb=20240127205354"
+  },
+  {
+    "id": 180,
+    "name": "Cheeksqueek",
+    "rank": "C",
+    "tribe": "Eerie",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/52/Cheeksqueek-0.png/revision/latest/scale-to-width-down/500?cb=20220729034053"
+  },
+  {
+    "id": 181,
+    "name": "Cuttincheez",
+    "rank": "A",
+    "tribe": "Eerie",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/52/Cuttincheez_Art.png/revision/latest/scale-to-width-down/500?cb=20220729034118"
+  },
+  {
+    "id": 182,
+    "name": "Compunzer",
+    "rank": "A",
+    "tribe": "Eerie",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/3/38/CompunzerArtwork.png/revision/latest/scale-to-width-down/500?cb=20240127205434"
+  },
+  {
+    "id": 183,
+    "name": "Lamedian",
+    "rank": "A",
+    "tribe": "Eerie",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/00/LamedianArtwork.png/revision/latest/scale-to-width-down/500?cb=20230513195307"
+  },
+  {
+    "id": 184,
+    "name": "Grumples",
+    "rank": "B",
+    "tribe": "Eerie",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/20/Grumplesartwork.png/revision/latest/scale-to-width-down/500?cb=20190117213954"
+  },
+  {
+    "id": 185,
+    "name": "Everfore",
+    "rank": "S",
+    "tribe": "Eerie",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/13/Everfore.png/revision/latest/scale-to-width-down/493?cb=20240127205558"
+  },
+  {
+    "id": 186,
+    "name": "Eterna",
+    "rank": "S",
+    "tribe": "Eerie",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/dc/Eterna_Art.png/revision/latest/scale-to-width-down/376?cb=20251216154416"
+  },
+  {
+    "id": 187,
+    "name": "Insomni",
+    "rank": "S",
+    "tribe": "Eerie",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/66/InsomniArtwork.png/revision/latest/scale-to-width-down/324?cb=20260225025938"
+  },
+  {
+    "id": 188,
+    "name": "Sandi",
+    "rank": "S",
+    "tribe": "Eerie",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4a/SandiArtwork.png/revision/latest/scale-to-width-down/483?cb=20250729024922"
+  },
+  {
+    "id": 189,
+    "name": "Noko",
+    "rank": "E",
+    "tribe": "Slippery",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/99/NokoYW1Artwork.png/revision/latest/scale-to-width-down/500?cb=20220729035103"
+  },
+  {
+    "id": 190,
+    "name": "Bloominoko",
+    "rank": "A",
+    "tribe": "Slippery",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/ba/Bloominoko2.png/revision/latest/scale-to-width-down/434?cb=20260117072453"
+  },
+  {
+    "id": 191,
+    "name": "Pandanoko",
+    "rank": "A",
+    "tribe": "Slippery",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/9d/Pandanoko2.png/revision/latest/scale-to-width-down/500?cb=20220729035138"
+  },
+  {
+    "id": 192,
+    "name": "Heheheel",
+    "rank": "D",
+    "tribe": "Slippery",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0e/Heheheel2.png/revision/latest/scale-to-width-down/500?cb=20220729035435"
+  },
+  {
+    "id": 193,
+    "name": "Croonger",
+    "rank": "C",
+    "tribe": "Slippery",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e8/Croonger2.png/revision/latest/scale-to-width-down/500?cb=20220729035518"
+  },
+  {
+    "id": 194,
+    "name": "Urnaconda",
+    "rank": "C",
+    "tribe": "Slippery",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/ed/Urnaconda2.png/revision/latest/scale-to-width-down/500?cb=20220729035538"
+  },
+  {
+    "id": 195,
+    "name": "Fishpicable",
+    "rank": "D",
+    "tribe": "Slippery",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/62/Fishpicable_Artwork.png/revision/latest/scale-to-width-down/500?cb=20220729035633"
+  },
+  {
+    "id": 196,
+    "name": "Rageon",
+    "rank": "B",
+    "tribe": "Slippery",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/77/Rageon.png/revision/latest/scale-to-width-down/480?cb=20240127210524"
+  },
+  {
+    "id": 197,
+    "name": "Tunatic",
+    "rank": "A",
+    "tribe": "Slippery",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7e/TunaticArtwork.png/revision/latest/scale-to-width-down/327?cb=20250831180555"
+  },
+  {
+    "id": 198,
+    "name": "Draggie",
+    "rank": "D",
+    "tribe": "Slippery",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b2/Draggie2.png/revision/latest/scale-to-width-down/500?cb=20220729035953"
+  },
+  {
+    "id": 199,
+    "name": "Dragon Lord",
+    "rank": "S",
+    "tribe": "Slippery",
+    "attribute": "Earth",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7b/Dragon-Lord.png/revision/latest/scale-to-width-down/483?cb=20251221210019"
+  },
+  {
+    "id": 200,
+    "name": "Azure Dragon",
+    "rank": "S",
+    "tribe": "Slippery",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e8/Azure_dragon.png/revision/latest/scale-to-width-down/500?cb=20220729040110"
+  },
+  {
+    "id": 201,
+    "name": "Daiz",
+    "rank": "C",
+    "tribe": "Slippery",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/55/Daiz.png/revision/latest/scale-to-width-down/500?cb=20220729040339"
+  },
+  {
+    "id": 202,
+    "name": "Confuze",
+    "rank": "B",
+    "tribe": "Slippery",
+    "attribute": "Drain",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7b/Confuze.png/revision/latest/scale-to-width-down/500?cb=20220729040359"
+  },
+  {
+    "id": 203,
+    "name": "Chummer",
+    "rank": "C",
+    "tribe": "Slippery",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/8a/Chummer_Art.png/revision/latest/scale-to-width-down/500?cb=20220729040447"
+  },
+  {
+    "id": 204,
+    "name": "Shrook",
+    "rank": "B",
+    "tribe": "Slippery",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0c/ShrookArtwork.png/revision/latest/scale-to-width-down/487?cb=20240127210751"
+  },
+  {
+    "id": 205,
+    "name": "Spenp",
+    "rank": "C",
+    "tribe": "Slippery",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/20/Spenp_Art.png/revision/latest/scale-to-width-down/500?cb=20220729040530"
+  },
+  {
+    "id": 206,
+    "name": "Almi",
+    "rank": "B",
+    "tribe": "Slippery",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e5/Almi_Art.png/revision/latest/scale-to-width-down/500?cb=20220729040657"
+  },
+  {
+    "id": 207,
+    "name": "Babblong",
+    "rank": "C",
+    "tribe": "Slippery",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f2/Nagabana.png/revision/latest/scale-to-width-down/500?cb=20220729040749"
+  },
+  {
+    "id": 208,
+    "name": "Bananose",
+    "rank": "A",
+    "tribe": "Slippery",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/0a/Bananose_Artwork.png/revision/latest/scale-to-width-down/500?cb=20220729040800"
+  },
+  {
+    "id": 209,
+    "name": "Copperled",
+    "rank": "B",
+    "tribe": "Slippery",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/8b/Shikirunja.png/revision/latest/scale-to-width-down/500?cb=20220729041011"
+  },
+  {
+    "id": 210,
+    "name": "Cynake",
+    "rank": "B",
+    "tribe": "Slippery",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/85/Cynake-0.png/revision/latest/scale-to-width-down/500?cb=20220729041022"
+  },
+  {
+    "id": 211,
+    "name": "Slitheref",
+    "rank": "A",
+    "tribe": "Slippery",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/04/SlitherefArtwork.png/revision/latest/scale-to-width-down/491?cb=20240127210855"
+  },
+  {
+    "id": 212,
+    "name": "Venoct",
+    "rank": "S",
+    "tribe": "Slippery",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/57/Venoct_atwork.png/revision/latest/scale-to-width-down/500?cb=20230222194952"
+  },
+  {
+    "id": 213,
+    "name": "Shadow Venoct",
+    "rank": "S",
+    "tribe": "Slippery",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7d/ShadowVenoct_Artwork.png/revision/latest/scale-to-width-down/500?cb=20220729041215"
+  },
+  {
+    "id": 214,
+    "name": "Shogunyan",
+    "rank": "S",
+    "tribe": "Brave",
+    "attribute": "Wind",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/93/Shogunyan.png/revision/latest/scale-to-width-down/500?cb=20251128225100"
+  },
+  {
+    "id": 215,
+    "name": "Komashura",
+    "rank": "S",
+    "tribe": "Mysterious",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c4/Shurakoma.png/revision/latest/scale-to-width-down/500?cb=20251128225123"
+  },
+  {
+    "id": 216,
+    "name": "Dandoodle",
+    "rank": "S",
+    "tribe": "Eerie",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7f/Dandoodle.png/revision/latest/scale-to-width-down/500?cb=20251128225159"
+  },
+  {
+    "id": 217,
+    "name": "Elder Bloom",
+    "rank": "S",
+    "tribe": "Heartful",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/7a/Elder-Bloom.png/revision/latest/scale-to-width-down/500?cb=20251128225233"
+  },
+  {
+    "id": 218,
+    "name": "Gilgaros",
+    "rank": "S",
+    "tribe": "Tough",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/58/Gilgaros.png/revision/latest/scale-to-width-down/500?cb=20251128225312"
+  },
+  {
+    "id": 219,
+    "name": "Sapphinyan",
+    "rank": "A",
+    "tribe": "Charming",
+    "attribute": "Water",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6c/Sapphinyan_Art.png/revision/latest/scale-to-width-down/500?cb=20240127200526"
+  },
+  {
+    "id": 220,
+    "name": "Emenyan",
+    "rank": "A",
+    "tribe": "Charming",
+    "attribute": "Restoration",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/1/11/EmenyanArtwork.png/revision/latest/scale-to-width-down/500?cb=20240127200536"
+  },
+  {
+    "id": 221,
+    "name": "Rubinyan",
+    "rank": "A",
+    "tribe": "Charming",
+    "attribute": "Fire",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/42/RubinyanArtwork.png/revision/latest/scale-to-width-down/500?cb=20240127200549"
+  },
+  {
+    "id": 222,
+    "name": "Topanyan",
+    "rank": "A",
+    "tribe": "Charming",
+    "attribute": "Lightning",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/cd/TopanyanArtwork.png/revision/latest/scale-to-width-down/500?cb=20240127200601"
+  },
+  {
+    "id": 223,
+    "name": "Dianyan",
+    "rank": "A",
+    "tribe": "Charming",
+    "attribute": "Ice",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c7/Dianyan_Art.png/revision/latest/scale-to-width-down/500?cb=20220627231007"
+  },
+  {
+    "id": 224,
+    "name": "Slimamander",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/4a/Slimamander_Art.png/revision/latest/scale-to-width-down/500?cb=20250729023648"
+  },
+  {
+    "id": 225,
+    "name": "Sproink",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/9/92/Sproink-0.jpg/revision/latest/scale-to-width-down/500?cb=20190211202532"
+  },
+  {
+    "id": 226,
+    "name": "SV Snaggerjag",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/f/f3/SV_Snaggerjag_Boss_Artwork.png/revision/latest/scale-to-width-down/500?cb=20230509020312"
+  },
+  {
+    "id": 227,
+    "name": "Massiface",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/20/Massiface.png/revision/latest?cb=20260116183210"
+  },
+  {
+    "id": 228,
+    "name": "Phantasmurai",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/6/6b/Phantasmurai.png/revision/latest/scale-to-width-down/500?cb=20251128205749"
+  },
+  {
+    "id": 229,
+    "name": "Tarantutor",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/d/d6/Tarantutor.png/revision/latest?cb=20151203102543"
+  },
+  {
+    "id": 230,
+    "name": "Dr. Maddiman",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/a/aa/Dr._Maddiman.png/revision/latest?cb=20151203101025"
+  },
+  {
+    "id": 231,
+    "name": "McKraken",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e0/SquiddiliusMcKraken.png/revision/latest/scale-to-width-down/482?cb=20181217133616"
+  },
+  {
+    "id": 232,
+    "name": "McKraken (2nd Form)",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e0/SquiddiliusMcKraken.png/revision/latest/scale-to-width-down/482?cb=20181217133616"
+  },
+  {
+    "id": 233,
+    "name": "Duwheel",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/3/37/Duwheel.png/revision/latest?cb=20151203101428"
+  },
+  {
+    "id": 234,
+    "name": "Chirpster",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/0/01/Chirpster_Artwork.png/revision/latest?cb=20210429223257"
+  },
+  {
+    "id": 235,
+    "name": "Eyedra",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/b5/Eyedra_Artwork.png/revision/latest/scale-to-width-down/500?cb=20251128195402"
+  },
+  {
+    "id": 236,
+    "name": "Hoggles",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/2/23/Hoggles.png/revision/latest/scale-to-width-down/500?cb=20251128212340"
+  },
+  {
+    "id": 237,
+    "name": "Styx Mk. VI",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/4/43/Styx_Mk._VI.png/revision/latest/scale-to-width-down/500?cb=20251128210415"
+  },
+  {
+    "id": 238,
+    "name": "Clipso",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/c/c3/Clipso.png/revision/latest?cb=20151203102817"
+  },
+  {
+    "id": 239,
+    "name": "Dr. Nogut",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/e2/Dr._Nogut.png/revision/latest/scale-to-width-down/500?cb=20251128222158"
+  },
+  {
+    "id": 240,
+    "name": "Spooklunk",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/ba/Spooklunk_Artwork.png/revision/latest/scale-to-width-down/500?cb=20251128234912"
+  },
+  {
+    "id": 241,
+    "name": "Squisker",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/8/8f/Squisker.png/revision/latest/scale-to-width-down/500?cb=20251128211801"
+  },
+  {
+    "id": 242,
+    "name": "Wobblewok",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/b/bf/Wobblewok.png/revision/latest/scale-to-width-down/500?cb=20251129000202"
+  },
+  {
+    "id": 243,
+    "name": "Gargaros",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/7/78/Yo-Kai_Watch_-_Boss_Gargaros.png/revision/latest/scale-to-width-down/500?cb=20220818013434"
+  },
+  {
+    "id": 244,
+    "name": "Ogralus",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/e/ec/Ogralus_Boss_Artwork.png/revision/latest?cb=20190606033728"
+  },
+  {
+    "id": 245,
+    "name": "Orcanos",
+    "rank": "-",
+    "tribe": "Boss",
+    "attribute": "None",
+    "imageurl": "https://static.wikia.nocookie.net/yokaiwatch/images/5/59/Orcanos_original_artwork.jpg/revision/latest/scale-to-width-down/500?cb=20190627033843"
+  }
+]

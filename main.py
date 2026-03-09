@@ -127,7 +127,7 @@ ssl_context = ssl.create_default_context(cafile=certifi.where())
 async def yokai(ctx, id: int):
     async with aiohttp.ClientSession() as session:
         async with session.get(
-            f"https://yokaiwatch-api-production.up.railway.app/api/yokai/{id}",
+            f"http://127.0.0.1:8000/yokais/",
             ssl=ssl_context
         ) as resp:
 
@@ -141,7 +141,8 @@ async def yokai(ctx, id: int):
                 return  await ctx.send("Yokai not found! Yet...")
 
             data = await resp.json()
-            await ctx.send(data['data']['imageurl'])
+            await ctx.send(data[f'{id}']['name'])
+            await ctx.send(data[f'{id}']['imageurl'])
 
 
 bot.run(token, log_handler=handler, log_level=logging.DEBUG)

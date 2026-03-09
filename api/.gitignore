@@ -1,0 +1,6 @@
+*.json text eol=lf
+__pycache__/
+.idea/
+env/
+venv/
+.venv/
